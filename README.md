@@ -16,3 +16,4 @@
 - Copyright (c) 2011-2012 Litecoin Developers
 - Copyright (c) SmallChange Developers
 - Copyright (c) 2018 SeungBaek Hong
+- copyright (c) 2018 GyuHyeon Shim
